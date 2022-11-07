@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EBankingApp",
+    "\\EBankingApp\\DataAccessLayer",
+    "\\EBankingApp\\Model"
+  ],
+  "SelectedNode": "\\EBankingApp\\DataAccessLayer\\SqlRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
